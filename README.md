@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @D-Ramakrishna, you can refer to me as RK.
+- 👀 I’m interested in e-mobility, machine learning, and renewable energy.
+- 🌱 I’m currently learning machine learning and AI tools in Python using Google Colab, and genetic algorithms.
+- 💞️ I’m looking to collaborate on projects related to e-mobility and hybrid electric vehicles, such as developing efficient switching mechanisms and training models for mode switching.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diddi-rama-krishna-rk21032003) | Email: drk2103@gmail.com
+- 😄 Pronouns: He/Him
+->
